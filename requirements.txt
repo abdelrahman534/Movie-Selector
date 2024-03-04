@@ -1,0 +1,10 @@
+
+## Usage
+1. Run the java code to start the Movie Selector application.
+2. Follow the code to add, delete, or randomly select a movie.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions, feel free to create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
